@@ -9,4 +9,5 @@ The Farsan font has been chosen because of its clarity and not too harsh style
 
 ### Color
 
-![color](assets/images/Skärmbild 2024-01-17 160922.png)
+![color](https://assets/images/Skärmbild 2024-01-17 160922.png)
+
