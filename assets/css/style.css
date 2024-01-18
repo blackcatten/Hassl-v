@@ -1,17 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Borel&family=Farsan&display=swap');
 
+/*body*/
 body {
-    background-color: #FEFAE0;
+background-color: #FEFAE0;
 }
+
 /*header*/
 header {
-    background-color: #FFA500;
+background-color: #FFA500;
 }
+
 /*main content*/
 main {
-
+background-color:  #FEFAE0;
 }
+
 /*footer*/
 footer {
-
+background-color: #606C38;
 }
