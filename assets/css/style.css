@@ -9,6 +9,20 @@ background-color: #FEFAE0;
 header {
 background-color: #FFA500;
 }
+#menu {
+    font-size: 120%;
+    list-style-type: none;
+    margin-bottom: 1em;
+}
+ul {
+    display: block;
+    list-style-type: circle;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 30px;
+}
 #logo {
     text-align: center;
 }
@@ -22,6 +36,7 @@ h1 {
 }
 nav {
     padding: 1rem;
+    box-sizing: border-box;
 }
 nav > a {
     padding: 5px 10px;
