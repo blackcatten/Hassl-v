@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Visit Hasslöv, Beech forest Osbeck's beech forest, Beautiful Hike, Salomon Fishing, Lugnarohögen, A Bronze age Burial Mound">
+    <meta name="keywords" content="hasslöv, beech forest, salomon, fishing, lugnarohögen">
+    <!--stylesheet-->
+    <link rel="stylesheet" href="assets/css/style.css">
+    <!--title-->
+    <title>Visit Hasslöv</title>
+  </head>
+  <body>
+     <!--Header-->
+    <header>
+      <a href="index.html">
+        <h1 id="logo">Visit Hasslöv</h1>
+      </a>
+      <nav>
+        <ul id="menu">
+          <li <a href="index.html"></a>Home</li>
+          <li <a href=""></a>Gallery</li>
+          <li <a href=""></a>Contact</li>
+        </ul>
+      </nav>
+    </header>
+     <!--Main content-->
+    <main>Main Content</main>
+     <!--Footer-->
+    <footer>Footer</footer>
+  </body>
+</html>
