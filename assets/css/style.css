@@ -9,7 +9,9 @@ background-color: #FEFAE0;
 header {
 background-color: #FFA500;
 }
-
+#logo {
+    text-align: center;
+}
 /*main content*/
 main {
 background-color:  #FEFAE0;
