@@ -10,19 +10,12 @@ header {
 background-color: #FFA500;
 }
 #menu {
+    display: flex;
     font-size: 120%;
     list-style-type: none;
     margin-bottom: 1em;
 }
-ul {
-    display: block;
-    list-style-type: circle;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    padding-inline-start: 30px;
-}
+
 #logo {
     text-align: center;
 }
