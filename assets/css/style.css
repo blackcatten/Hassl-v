@@ -15,6 +15,11 @@ background-color: #FFA500;
 header a {
     text-decoration: none;
 }
+h1 {
+    font-family: Borel;
+    color: #3a3a3a;
+    font-size: 5em;
+}
 /*main content*/
 main {
 background-color:  #FEFAE0;
