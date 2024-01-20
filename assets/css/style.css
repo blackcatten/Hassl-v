@@ -20,6 +20,16 @@ h1 {
     color: #3a3a3a;
     font-size: 5em;
 }
+nav {
+    padding: 1rem;
+}
+nav > a {
+    padding: 5px 10px;
+    text-decoration: none;
+}
+nav > a:hover {
+    color: #BC6C25;
+}
 /*main content*/
 main {
 background-color:  #FEFAE0;
