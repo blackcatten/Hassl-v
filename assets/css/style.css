@@ -14,8 +14,11 @@ background-color: #FFA500;
     font-size: 120%;
     list-style-type: none;
     margin-bottom: 1em;
+    justify-content: center;
 }
-
+li {
+    padding-right: 5%;
+}
 #logo {
     text-align: center;
 }
@@ -30,6 +33,7 @@ h1 {
 nav {
     padding: 1rem;
     box-sizing: border-box;
+    margin-top: -7%;
 }
 nav > a {
     padding: 5px 10px;
