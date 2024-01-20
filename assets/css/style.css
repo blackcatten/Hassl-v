@@ -12,6 +12,9 @@ background-color: #FFA500;
 #logo {
     text-align: center;
 }
+header a {
+    text-decoration: none;
+}
 /*main content*/
 main {
 background-color:  #FEFAE0;
