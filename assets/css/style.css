@@ -52,7 +52,7 @@ footer {
 background-color: #606C38;
 }
 @media screen and (max-width: 950px) {
-    h1 {
+    #logo {
         font-size: 2em;
     }
 }
