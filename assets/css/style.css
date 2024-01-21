@@ -56,3 +56,8 @@ background-color: #606C38;
         font-size: 2em;
     }
 }
+@media screen and (max-width: 280px) {
+    #logo {
+        font-size: 1em;
+    }
+}
