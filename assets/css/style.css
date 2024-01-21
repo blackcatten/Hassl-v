@@ -51,7 +51,7 @@ background-color:  #FEFAE0;
 footer {
 background-color: #606C38;
 }
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 800px) {
     #logo {
         font-size: 2em;
     }
