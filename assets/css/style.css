@@ -62,7 +62,10 @@ display: inline;
     font-size: 160%;
     margin: 1%;
     padding: 1%;
-    color: white #ffffff;
+    color: #ffffff;
+}
+.social-networks a {
+    color: #ffffff;
 }
 @media screen and (max-width: 800px) {
     #logo {
