@@ -47,8 +47,12 @@ main {
 background-color:  #FEFAE0;
 }
 .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     width: 500px;
     height: 300px;
+    margin: 0 auto;
 }
 .osbeck {
     width: 70%;
@@ -57,6 +61,9 @@ background-color:  #FEFAE0;
 .osbeck-photo {
     width: 30%;
     height: 200px;
+}
+.osbeck-photo img {
+    width: 100%;
 }
 
 /*footer*/
