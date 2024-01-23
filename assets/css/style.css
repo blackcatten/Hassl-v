@@ -46,6 +46,18 @@ nav a:hover {
 main {
 background-color:  #FEFAE0;
 }
+.container {
+    width: 500px;
+    height: 300px;
+}
+.osbeck {
+    width: 70%;
+    height: 200px;
+}
+.osbeck-photo {
+    width: 30%;
+    height: 200px;
+}
 
 /*footer*/
 footer {
