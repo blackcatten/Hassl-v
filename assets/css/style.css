@@ -64,6 +64,28 @@ background-color:  #FEFAE0;
 }
 .osbeck-photo img {
     width: 100%;
+} 
+.waterfall {
+    width: 70%;
+    height: 200px;
+}
+.waterfall-photo {
+    width: 30%;
+    height: 200px;
+}
+.waterfall-photo img {
+    width: 100%;
+}
+.fishing {
+    width: 70%;
+    height: 200px;
+}
+stensån-photo {
+    width: 30%;
+    height: 200px;
+}
+stensån-photo img {
+    width: 100%;
 }
 
 /*footer*/
