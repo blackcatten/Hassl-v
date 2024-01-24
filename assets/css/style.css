@@ -46,12 +46,17 @@ nav a:hover {
 main {
 background-color:  #FEFAE0;
 }
+.wrapper {
+     width: 100%;
+     max-width: 1080px;
+     margin: 0 auto;
+}
 .container {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 500px;
-    height: 300px;
+    width: 100%;
+    height: auto;
     margin: 0 auto;
 }
 .osbeck {
