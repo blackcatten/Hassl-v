@@ -59,44 +59,22 @@ background-color:  #FEFAE0;
     height: auto;
     margin: 0 auto;
 }
-.osbeck {
+.description {
     width: 70%;
-    height: 200px;
+    height: auto;
+    font-size: 1.25rem;
 }
-.osbeck-photo {
+.photo {
     width: 30%;
-    height: 200px;
+    height: auto;
 }
-.osbeck-photo img {
+.photo img {
     width: 100%;
 } 
-.waterfall {
-    width: 70%;
-    height: 200px;
-}
-.waterfall-photo {
-    width: 30%;
-    height: 200px;
-}
-.waterfall-photo img {
-    width: 100%;
-}
-.fishing {
-    width: 70%;
-    height: 200px;
-}
-.fishing-photo {
-    width: 30%;
-    height: 200px;
-}
-.fishing-photo img {
-    width: 100%;
-}
-
 /*footer*/
 footer {
 background-color: #606C38;
-height: 160px;
+height: auto;
 }
 .social-networks {
     text-align: center;
@@ -117,6 +95,13 @@ display: inline;
     #logo {
         font-size: 2em;
     }
+.description {
+    width: 100%;
+    }
+.photo {
+    width: 100%;
+    }
+
 }
 @media screen and (max-width: 280px) {
     #logo {
