@@ -97,12 +97,19 @@ display: inline;
     #logo {
         font-size: 2em;
     }
-.description {
-    width: 100%;
+    .container {
+        padding: 19%;
+        display: block;
     }
-.photo {
-    width: 100%;
-    }
+    .description {
+        margin: 4%;
+        margin-right: 0%;
+        text-align: center;
+        width: 100%;
+        }
+    .photo {
+        width: 50%;
+        }
 
 }
 @media screen and (max-width: 280px) {
