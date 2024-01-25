@@ -98,17 +98,17 @@ display: inline;
         font-size: 2em;
     }
     .container {
-        padding: 19%;
+        padding: 0%;
         display: block;
     }
     .description {
-        margin: 4%;
+        margin: 0%;
         margin-right: 0%;
         text-align: center;
         width: 100%;
         }
     .photo {
-        width: 50%;
+        width: 100%;
         }
 
 }
