@@ -93,6 +93,18 @@ display: inline;
 .social-networks a {
     color: #ffffff;
 }
+/* Gallery Photos */
+
+.gallery-photo {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0px;
+}
+
+.gallery-photo img{
+    width: 100%;
+}
 @media screen and (max-width: 800px) {
     #logo {
         font-size: 2em;
