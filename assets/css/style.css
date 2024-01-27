@@ -147,6 +147,9 @@ button {
 }
 @media screen and (max-width: 280px) {
     #logo {
-        font-size: 28px;
+        font-size: 26px;
+    }
+    #menu {
+        padding-right: 2em;
     }
 }
