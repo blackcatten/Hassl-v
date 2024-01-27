@@ -96,6 +96,7 @@ display: inline;
 /* Gallery Photos */
 
 #gallery-photo {
+    padding: 7%;
     clear: both;
     line-height: 0;
     column-count: 4;
@@ -103,7 +104,8 @@ display: inline;
 }
 
 #gallery-photo img{
-    width: 100%;
+    width: 300px;
+    height: 300px;
 }
 @media screen and (max-width: 800px) {
     #logo {
