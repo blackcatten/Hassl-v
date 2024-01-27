@@ -95,14 +95,14 @@ display: inline;
 }
 /* Gallery Photos */
 
-.gallery-photo {
+#gallery-photo {
     clear: both;
     line-height: 0;
     column-count: 4;
     column-gap: 0px;
 }
 
-.gallery-photo img{
+#gallery-photo img{
     width: 100%;
 }
 @media screen and (max-width: 800px) {
