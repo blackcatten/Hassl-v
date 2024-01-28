@@ -113,9 +113,9 @@ display: inline;
     text-align: center;
 }
 #contact {
-    margin: 182px;
-    width: 36em;
-    height: 12em;
+    margin: 0;
+    width: 100%;
+    height: 18em;
 }
 input {
     width: 100%;
