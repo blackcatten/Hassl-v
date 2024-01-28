@@ -121,7 +121,7 @@ input {
     width: 100%;
 }
 input[type="checkbox"] {
-    width: 3%;
+    width: 5%;
     margin-top: 3px;
 }
 button {
