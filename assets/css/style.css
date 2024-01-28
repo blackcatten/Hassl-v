@@ -120,6 +120,10 @@ display: inline;
 input {
     width: 100%;
 }
+input[type="checkbox"] {
+    width: 2%;
+    margin-top: 3px;
+}
 button {
     background-color: aqua;
     border-radius: 7%;
