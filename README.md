@@ -72,6 +72,12 @@ Second time visitors experience.
 
 ![Alt color](docs/Color.png)
 
+### Wireframe
+
+![desctop-homepage](docs/wireframe-desctop.jpg)
+![ipad-homepage](docs/wireframe-ipad.jpg)
+![iphone-hompage](docs/wireframe-iphone.jpg)
+
 ## Testing:
 
 1. Validator CSS-pass 
