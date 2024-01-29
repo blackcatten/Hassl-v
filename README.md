@@ -86,6 +86,10 @@ The Farsan font has been chosen because of its clarity and not too harsh style
 - Contactpage-pass
 ![result](docs/validator-contactpage.jpeg)
 
+Lighthouse: 
+![desctop](docs/lighthouse-desctop.png)
+![mobile](docs/lighthouse-mobile.png)
+
 ## Deployment:
 
 -The site was redirected to the GitHub pages. The steps to be passed are as follows:
