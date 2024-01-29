@@ -49,6 +49,9 @@ Second time visitors experience.
 - The footer contains four icons that take the user to facebook, twitter, youtube and instagram.
 - Thanks to these pages, the user can find information about Hasslöv with various social media wherever the user is in the world.
 - The background color is dark green on the footer, while the icons are white, which is a balance between the colors.
+
+![Footerpage](docs/Footer.png)
+
 ## Typography
 
 Borel font has been chosen because of the old-fashioned handwritten style that suits the subject of the website.
