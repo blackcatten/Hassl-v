@@ -1,6 +1,7 @@
 # Visit Hasslöv:
 
 This is project 1 within CSS/HTML in code institute about Hasslöv. Hasslöv is a small village in southern Sweden with a long history. The village has both beautiful old forest and fine fishing waters.
+
 ![responsive](docs/responsive.png)
 
 ## User Experience (UX):
@@ -61,7 +62,7 @@ Second time visitors experience.
 
 ## Typography:
 
-Borel font has been chosen because of the old-fashioned handwritten style that suits the subject of the website.
+- Borel font has been chosen because of the old-fashioned handwritten style that suits the subject of the website.
 The Farsan font has been chosen because of its clarity and not too harsh style
 
 ## Design:
@@ -69,6 +70,16 @@ The Farsan font has been chosen because of its clarity and not too harsh style
 ### Color:
 
 ![Alt color](docs/Color.png)
+
+## Deployment:
+
+-The site was redirected to the GitHub pages. The steps to be passed are as follows:
+- In the GitHub repository, navigate to the Settings tab.
+- Select Pages on the tab in the sidebar on the left.
+- Final syllable select head under branch.
+- Press the Save button.
+- The page has been renewed.
+- You can find the live link on this page - https://blackcatten.github.io/Hassl-v/
 
 ## Technologies Used:
 
