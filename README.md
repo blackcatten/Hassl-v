@@ -73,6 +73,19 @@ The Farsan font has been chosen because of its clarity and not too harsh style
 
 ![Alt color](docs/Color.png)
 
+## Testing:
+
+1. Validator CSS-pass 
+![result](docs/validator-css.jpeg)
+
+2. Validator HTML-pass
+- Homepage-pass 
+![result](docs/validator-homepage.jpeg)
+- Gallerypage-pass
+![result](docs/validator-gallerypage.jpeg)
+- Contactpage-pass
+![result](docs/validator-contactpage.jpeg)
+
 ## Deployment:
 
 -The site was redirected to the GitHub pages. The steps to be passed are as follows:
