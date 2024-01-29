@@ -1,6 +1,11 @@
-# Visit Hasslöv
-## User Experience (UX)
-### User Stories 
+# Visit Hasslöv:
+
+This is project 1 within CSS/HTML in code institute about Hasslöv. Hasslöv is a small village in southern Sweden with a long history. The village has both beautiful old forest and fine fishing waters.
+![responsive](docs/responsive.png)
+
+## User Experience (UX):
+
+### User Stories :
 The website is for all users who want to experience the fine history of this historic little village of Hasslöv as a first time visitor.
 
 - I want to show the user why Hasslöv is so unique in many different ways.
@@ -16,8 +21,10 @@ Second time visitors experience.
 - I want that when the user comes back, it should be easy to get in touch or ask different things via email on the contact page.
 - I want users visiting the page for the second time to be able to quickly and easily search through the content for what they are looking for.
 
-## Features
-### Existing Features
+## Features:
+
+### Existing Features:
+
 1. Navigation bar.
 
 - Orange backgroundcolor has been chosen because Osbeck's beech forests are very beautiful in autumn and the autumn color describes the old forest with beech trees that are up to 200 years old. The handwritten style of the text has been chosen because of the petroglyphs and the old forest together. The salmon fishing that has been fished since time immemorial in the free river, i.e. no hydroelectric power plant in the river "stensån". The icons of the tree and the fish are inserted to show that the website is about both fishing and forest. The navigation bar contains home, gallery and contact. By clicking on each of them, users can go to different pages. It has been used :hover to highlight brown color.
@@ -52,20 +59,20 @@ Second time visitors experience.
 
 ![Footerpage](docs/Footer.png)
 
-## Typography
+## Typography:
 
 Borel font has been chosen because of the old-fashioned handwritten style that suits the subject of the website.
 The Farsan font has been chosen because of its clarity and not too harsh style
 
-## Design
+## Design:
 
-### Color
+### Color:
 
 ![Alt color](docs/Color.png)
 
-## Technologies Used
+## Technologies Used:
 
-### Languages Used
+### Languages Used:
 
 - [HTML](https://sv.wikipedia.org/wiki/HTML)
 - [CSS](https://en.wikipedia.org/wiki/CSS)
@@ -76,3 +83,23 @@ The Farsan font has been chosen because of its clarity and not too harsh style
 - [Google Fonts was used to import 'Borel'and 'Farsan' that have been used for each page.](https://fonts.google.com/)
 - [Git was used by utilising the Gitpod terminal to commit to Git and Push to GitHub.](https://git-scm.com/)
 - [GitHub was used as a repository for code of the project.](https://github.com/)
+
+## Credits: 
+
+### Content:
+
+- [wikipedia stensån](https://sv.wikipedia.org/wiki/Stens%C3%A5n)
+- [wikipedia osbecks](https://sv.wikipedia.org/wiki/Osbecks_bokskogar)
+- [wikipedia hasslöv](https://sv.wikipedia.org/wiki/Hassl%C3%B6v)
+
+### Code: 
+
+- Many of my codes are based on the [love running](https://github.com/Code-Institute-Solutions/love-running-v3) project.
+
+### Media: 
+
+- All photos have been taken by the developer.
+
+## Acknowledgements:
+
+- Special thanks to my mentor who showed me very useful codes and helped me simplify the website.
