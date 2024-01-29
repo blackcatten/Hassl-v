@@ -61,4 +61,18 @@ The Farsan font has been chosen because of its clarity and not too harsh style
 
 ### Color
 
-![Alt color](docs/color.png)
+![Alt color](docs/Color.png)
+
+## Technologies Used
+
+### Languages Used
+
+- [HTML](https://sv.wikipedia.org/wiki/HTML)
+- [CSS](https://en.wikipedia.org/wiki/CSS)
+
+### Frameworks, Libraries and Programs Used:
+
+- [Font Awesome was used to create icons to footer.](https://fontawesome.com/)
+- [Google Fonts was used to import 'Borel'and 'Farsan' that have been used for each page.](https://fonts.google.com/)
+- [Git was used by utilising the Gitpod terminal to commit to Git and Push to GitHub.](https://git-scm.com/)
+- [GitHub was used as a repository for code of the project.](https://github.com/)
