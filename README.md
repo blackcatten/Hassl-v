@@ -95,6 +95,23 @@ Lighthouse:
 ![desctop](docs/lighthouse-desctop.png)
 ![mobile](docs/lighthouse-mobile.png)
 
+### User Story Testing
+
+- I want to show the user why Hasslöv is so unique in many different ways.
+- Through pictures and information on this page, you can see the uniqueness of Hasslöv
+
+- I want to show the incredible history of this small village that stretches back to the Bronze Age.
+- I want the user's experience of the page to be interesting for those interested in history.
+- I want the users who visit the site to be able to gain insight and think again to marvel at the awesomeness of historical objects.
+- I want that if a user comes to the page, the user should be able to navigate to the homepage, gallery and contact.
+- I want the user to be able to see via the website that there are various activities in Hasslöv. 
+
+Second time visitors experience.
+
+- I want it to feel like it was a beautiful country setting that's a bit irresistible so that users will be happy to come back to see the images.
+- I want that when the user comes back, it should be easy to get in touch or ask different things via email on the contact page.
+- I want users visiting the page for the second time to be able to quickly and easily search through the content for what they are looking for.
+
 ## Deployment:
 
 -The site was redirected to the GitHub pages. The steps to be passed are as follows:
