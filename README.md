@@ -12,9 +12,8 @@ This is project 1 within CSS/HTML in code institute about Hasslöv. Hasslöv is 
 The website is for all users who want to experience the fine history of this historic little village of Hasslöv as a first time visitor.
 
 - I want to show the user why Hasslöv is so unique in many different ways.
-- I want to show the incredible history of this small village that stretches back to the Bronze Age.
-- I want the user's experience of the page to be interesting for those interested in history.
-- I want the users who visit the site to be able to gain insight and think again to marvel at the awesomeness of historical objects.
+- I want to show southern Sweden from its best side.
+- I want the user's experience of the page to be interesting for those interested in natural life.
 - I want that if a user comes to the page, the user should be able to navigate to the homepage, gallery and contact.
 - I want the user to be able to see via the website that there are various activities in Hasslöv. 
 
@@ -98,19 +97,24 @@ Lighthouse:
 ### User Story Testing
 
 - I want to show the user why Hasslöv is so unique in many different ways.
-- Through pictures and information on this page, you can see the uniqueness of Hasslöv
-
-- I want to show the incredible history of this small village that stretches back to the Bronze Age.
-- I want the user's experience of the page to be interesting for those interested in history.
-- I want the users who visit the site to be able to gain insight and think again to marvel at the awesomeness of historical objects.
+    - Through pictures and information on this page, you can see the uniqueness of Hasslöv.
+- I want to show southern Sweden from its best side.
+    -As I describe, the incredible viewpoints are located just above Hasslöv and the user can find this in the text and in the picture.
+- I want the user's experience of the page to be interesting for those interested in natural life.
+    -The natural life is both on the front page and in the Gallery when you see fields and waterfalls.
 - I want that if a user comes to the page, the user should be able to navigate to the homepage, gallery and contact.
+    -It is possible by using links found in the navigation bar.
 - I want the user to be able to see via the website that there are various activities in Hasslöv. 
+    -By reading and looking at pictures, the user can see that there is both forest to discover that is old, viewpoints, fishing and waterfalls that not many people know about.
 
 Second time visitors experience.
 
 - I want it to feel like it was a beautiful country setting that's a bit irresistible so that users will be happy to come back to see the images.
+    - Absolutely the user can come back and see these nice pictures and look at the waterfall which is beautiful.
 - I want that when the user comes back, it should be easy to get in touch or ask different things via email on the contact page.
+    -
 - I want users visiting the page for the second time to be able to quickly and easily search through the content for what they are looking for.
+    -
 
 ## Deployment:
 
