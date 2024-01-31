@@ -73,9 +73,12 @@ Second time visitors experience.
 
 ### Wireframe
 
-![desctop-homepage](docs/wireframe-desctop.jpg)
+![desktop-homepage](docs/wireframe-desktop.jpg)
 ![ipad-homepage](docs/wireframe-ipad.jpg)
 ![iphone-hompage](docs/wireframe-iphone.jpg)
+![desktop-gallerypage](docs/wireframe-desktop-gallery.jpg)
+![mobile/ipad-gallerypage](docs/wireframe-mobile-gallery.jpg)
+![desktop/ipad/mobile-contactpage](docs/wireframe-contact.jpg)
 
 ## Testing:
 
@@ -112,9 +115,12 @@ Second time visitors experience.
 - I want it to feel like it was a beautiful country setting that's a bit irresistible so that users will be happy to come back to see the images.
     - Absolutely the user can come back and see these nice pictures and look at the waterfall which is beautiful.
 - I want that when the user comes back, it should be easy to get in touch or ask different things via email on the contact page.
-    -
+    - It is possible to come back and ask as many questions as the user wants.
 - I want users visiting the page for the second time to be able to quickly and easily search through the content for what they are looking for.
-    -
+    - The text is very clear, easy to look through and find details.
+## Manual Testing:
+
+![manual](docs/Manual.png)
 
 ## Deployment:
 
