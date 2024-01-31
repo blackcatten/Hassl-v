@@ -73,11 +73,17 @@ Second time visitors experience.
 
 ### Wireframe
 
+- Desktop homepage
 ![desktop-homepage](docs/wireframe-desktop.jpg)
+- Ipad homepage
 ![ipad-homepage](docs/wireframe-ipad.jpg)
+- Iphone hompage
 ![iphone-hompage](docs/wireframe-iphone.jpg)
+- Desktop gallerypage
 ![desktop-gallerypage](docs/wireframe-desktop-gallery.jpg)
+- Mobile/Ipad gallerypage
 ![mobile/ipad-gallerypage](docs/wireframe-mobile-gallery.jpg)
+- Desktop/Ipad/Mobile contactpage
 ![desktop/ipad/mobile-contactpage](docs/wireframe-contact.jpg)
 
 ## Testing:
@@ -121,6 +127,10 @@ Second time visitors experience.
 ## Manual Testing:
 
 ![manual](docs/Manual.png)
+
+## Known Bugs
+
+- The images in the gallery page have been changed to the size of all devices, but during control testing in my own mobile in the Samsung Galaxy S21 the screen size is not correct.
 
 ## Deployment:
 
